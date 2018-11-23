@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NogiApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_members">Members</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_settings">Settings</string>
+
+    <string-array name="ikki">
+        <item>秋元真夏</item>
+        <item>生田絵梨花</item>
+        <item>井上小百合</item>
+        <item>衛藤美彩</item>
+        <item>川後陽菜</item>
+        <item>齋藤飛鳥</item>
+        <item>斉藤優里</item>
+        <item>桜井玲香</item>
+        <item>白石麻衣</item>
+        <item>高山一実</item>
+        <item>中田花奈</item>
+        <item>西野七瀬</item>
+        <item>樋口日奈</item>
+        <item>星野みなみ</item>
+        <item>松村沙友理</item>
+        <item>若月佑美</item>
+        <item>和田まあや</item>
+    </string-array>
+
+    <string-array name="niki">
+        <item>伊藤かりん</item>
+        <item> 伊藤純奈</item>
+        <item>北野日奈子</item>
+        <item>佐々木琴子</item>
+        <item>新内眞衣</item>
+        <item>鈴木絢音</item>
+        <item>寺田蘭世</item>
+        <item>堀未央奈</item>
+        <item>山崎怜奈</item>
+        <item>渡辺みり愛</item>
+    </string-array>
+
+    <string-array name="sanki">
+        <item>伊藤理々杏</item>
+        <item>岩本蓮加</item>
+        <item>梅澤美波</item>
+        <item>大園桃子</item>
+        <item>久保史緒里</item>
+        <item>阪口珠美</item>
+        <item>佐藤楓</item>
+        <item>中村麗乃</item>
+        <item>向井葉月</item>
+        <item>山下美月</item>
+        <item>吉田綾乃クリスティー</item>
+        <item>与田祐希</item>
+    </string-array>
+
+    <string-array name="setting">
+        <item>乃木坂46公式サイト</item>
+        <item>乃木坂46公式WebShop</item>
+        <item>メンバーTV番組出演情報検索</item>
+        <item>お問い合わせ</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
